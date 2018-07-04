@@ -14,6 +14,12 @@ namespace BoringMVCDesignPatterns
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+                name: "DesignPatternIndex",
+                url: "DesignPatterns",
+                defaults: new {Controller = "DesignPatterns", action = "Index" }
+                );
+
+            routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }

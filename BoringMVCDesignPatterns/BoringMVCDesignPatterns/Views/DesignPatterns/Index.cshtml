@@ -1,0 +1,16 @@
+﻿@model BoringMVCDesignPatterns.Models.DesignPatternList
+
+@{
+    ViewBag.Title = "List of Design Patterns";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@foreach (var pattern in Model.designPatterns)
+{
+<div>
+    <h4>@pattern.Name - @pattern.Category</h4>
+</div>
+
+}
+

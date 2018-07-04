@@ -86,7 +86,6 @@ C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\Bor
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\bin\Microsoft.AI.Web.xml
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\obj\Debug\BoringMVCDesignPatterns.csprojAssemblyReference.cache
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\obj\Debug\BoringMVCDesignPatterns.csproj.CoreCompileInputs.cache
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\obj\Debug\BoringMVCDesignPatterns.csproj.CopyComplete
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\obj\Debug\BoringMVCDesignPatterns.dll
