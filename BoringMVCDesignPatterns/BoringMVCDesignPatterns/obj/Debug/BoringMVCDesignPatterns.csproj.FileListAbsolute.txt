@@ -90,3 +90,4 @@ C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\Bor
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\obj\Debug\BoringMVCDesignPatterns.csproj.CopyComplete
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\obj\Debug\BoringMVCDesignPatterns.dll
 C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\obj\Debug\BoringMVCDesignPatterns.pdb
+C:\Users\after\source\repos\boringmvcdesignpattterns\BoringMVCDesignPatterns\BoringMVCDesignPatterns\obj\Debug\BoringMVCDesignPatterns.csprojAssemblyReference.cache

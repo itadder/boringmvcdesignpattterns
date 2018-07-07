@@ -13,5 +13,6 @@ namespace BoringMVCDesignPatterns.Models
         Behavioral = 3,
 
 
+
     }
 }
