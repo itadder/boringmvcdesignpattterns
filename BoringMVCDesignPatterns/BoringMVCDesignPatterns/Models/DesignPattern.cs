@@ -10,12 +10,14 @@ namespace BoringMVCDesignPatterns.Models
 
         public string Name;
         public Category Category;
+        public string Description;
 
 
         public DesignPattern()
         {
             Name = "Change Me";
             Category = Category.Unknown;
+            Description = "A brief synopsis of the pattern goes here...";
         }
     }
 }

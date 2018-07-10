@@ -4,13 +4,48 @@
     ViewBag.Title = "List of Design Patterns";
 }
 
-<h2>@ViewBag.Title</h2>
 
-@foreach (var pattern in Model.designPatterns)
-{
-<div>
-    <h4>@pattern.Name - @pattern.Category</h4>
+
+
+<div class="container">
+  
+    <aside class="col-md-5">
+        <h2>@ViewBag.Title</h2>
+        @foreach (var pattern in Model.designPatterns)
+        {
+
+            <div class="row">
+
+
+                <div class="col-md-12">
+                    <h4 class="well well-sm"><span class="label label-info">@pattern.Category</span> - @pattern.Name</h4>
+                    <p class="small">@pattern.Description</p>
+                </div>
+            </div>
+        }
+    </aside>
+    <div class="col-md-7">
+        <h2 class="text-center">Pattern name here</h2><br />
+        <p>here is where a ton of stuff should go and this should be the main.</p>
+        <p>here is where a ton of stuff should go and this should be the main.</p>
+        <p>here is where a ton of stuff should go and this should be the main.</p>
+        <p>here is where a ton of stuff should go and this should be the main.</p>
+        <p>here is where a ton of stuff should go and this should be the main.</p>
+        <p>here is where a ton of stuff should go and this should be the main.</p>
+        <p>here is where a ton of stuff should go and this should be the main.</p>
+        <p>here is where a ton of stuff should go and this should be the main.</p>
+        <code>
+            Example of some code<br />
+            <br />
+            foreach var i in list{<br />
+            i.getstuff();<br />
+            <br />
+            }<br />
+
+        </code>
+
+    </div>
 </div>
 
-}
+
 
